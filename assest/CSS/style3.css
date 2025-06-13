@@ -1,0 +1,20 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 30px auto;
+}
+
+th,
+td {
+  padding: 12px;
+  border: 1px solid #333;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}

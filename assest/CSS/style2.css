@@ -1,0 +1,33 @@
+.container {
+  width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.product-info {
+  margin-bottom: 20px;
+}
+
+.actions button,
+.actions a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.btn-primary {
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-link {
+  color: red;
+  text-decoration: underline;
+}
